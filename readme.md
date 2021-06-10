@@ -1,0 +1,4 @@
+# Terminal-ide
+
+## Dependencies
+ - libncurses
